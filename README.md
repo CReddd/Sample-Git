@@ -6,3 +6,4 @@
 - git push
 - git checkout -b [name-of-branch]
 - git checkout [branch-name-or-commit-number]
+# Sample-Git
